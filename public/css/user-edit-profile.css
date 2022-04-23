@@ -1,0 +1,80 @@
+#container {
+    width: 100%;
+    height: max-content;
+    background-color: rgba(255, 229, 182, 0.8);
+    box-sizing: border-box;
+    padding: 50px 350px;
+}
+
+#box-right {
+    /* design */
+    width: 100%;
+    height: max-content;
+    background-color: #fdfdfd;
+    border-radius: 25px;
+    /* layout */
+    box-sizing: border-box;
+    padding: 50px;
+    gap: 50px;
+}
+
+#box-right .head-form {
+    gap: 5px;
+    align-items: center;
+}
+
+#photo {
+    justify-content: center;
+    align-items: center;
+}
+
+#box-right #form-group {
+    gap: 25px;
+}
+
+#box-right #form-group .input-group {
+    gap: 25px;
+}
+
+.form-label {
+    width: 100%;
+    height: max-content;
+    justify-content: normal;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.form-label label {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #181818;
+}
+
+.address-box {
+    width: 100%;
+    height: max-content;
+    justify-content: normal;
+    gap: 15px;
+}
+
+#box-right #form-group .form-label .address-box .input-group {
+    gap: 15px;
+}
+
+#container #box-right #doubel-button button {
+    border-radius: 10px;
+}
+
+#back {
+    margin-left: -100%;
+    justify-content: center;
+}
+
+#next {
+    justify-content: center;
+}
+
+#start {
+    align-items: flex-start;
+}

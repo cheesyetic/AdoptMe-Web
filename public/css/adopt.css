@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h6 {
+    color: darkgray;
+}
+
+h3 {
+    color: #FFAD50;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 400px;
+}

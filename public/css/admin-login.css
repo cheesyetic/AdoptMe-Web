@@ -1,0 +1,41 @@
+#box-left {
+    background-image: url(../img/illust/undraw_pet_adoption.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#box-right {
+    padding: 0 125px;
+}
+
+.container {
+    /* layout */
+    box-sizing: border-box;
+    padding-right: 75px;
+    gap: 0;
+}
+
+.option {
+    width: 100%;
+    height: max-content;
+}
+
+.check-box {
+    justify-content: normal;
+    gap: 5px;
+}
+
+.check-box input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+}
+
+.check-box label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #181818;
+}

@@ -1,0 +1,52 @@
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.oregano {
+    font-family: 'Oregano', cursive;
+}
+
+.alert{
+    position:relative;
+    padding:.75rem 1.25rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:.25rem
+}
+
+.alert-danger{
+    color:#721c24;
+    background-color:#f8d7da;
+    border-color:#f5c6cb
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vh100 {
+    height: 100vh;
+}
+
+.ph100{
+    height: 100%;
+}
+
+.pw100{
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: #fdfdfd;
+}

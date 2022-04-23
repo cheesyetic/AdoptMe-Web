@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+.page_header {
+    font-size: 32px;
+    text-transform: uppercase;
+    margin: 60px 0 65px;
+    text-align: center;
+    color: #FFAD50;
+}
+
+.form-row {
+    font-family: 'Poppins',sans-serif;
+}
+
+.sirclo-form-row {
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight:300;
+    font-style:normal;
+    padding-left: 8px;
+}
+
+.form-check {
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight:300;
+    font-style:normal;
+}
+
+.required {
+    color: red;
+}
+
+.body {
+    line-height: 1.5;
+}
+
+.bttn-check {
+    padding-left: 0px;
+}
+
+.confirm {
+    border: none;
+    color: white;
+    padding: 10px 0;
+    background: #FFAD50;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0;
+    width: 200px;
+    border-radius: 3px;
+    font-family:'Poppins',sans-serif;
+    font-weight: 700;
+}
+
+.p, span {
+    font-family: 'Poppins';
+    font-size: 16px;
+}

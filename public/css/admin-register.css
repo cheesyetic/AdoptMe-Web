@@ -1,0 +1,13 @@
+#box-left {
+    background-image: url(../img/illust/dog.jpg);
+    background-position: 0 -150px;
+    background-size: cover;
+}
+
+.container {
+    gap: 0;
+}
+
+#box-right {
+    padding: 0 125px;
+}

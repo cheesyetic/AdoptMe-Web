@@ -1,0 +1,50 @@
+#box-left {
+    width: 50%;
+    background-image: url(../img/illust/undraw_good_doggy.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    /* layout */
+    box-sizing: border-box;
+    padding: 25px;
+    gap: 25px;
+}
+
+#box-right {
+    width: 50%;
+    /* height: 100%; */
+    border-radius: 25px;
+    background-color: rgba(249, 168, 38, 0.11);
+    padding: 25px 75px;
+}
+
+#box-right .head-form {
+    align-items: center;
+}
+
+.option {
+    width: 100%;
+    height: max-content;
+}
+
+.check-box {
+    justify-content: normal;
+    gap: 5px;
+}
+
+.check-box input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+}
+
+.check-box label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #181818;
+}

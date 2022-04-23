@@ -1,0 +1,22 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.ccc {
+    padding-top: 20px;
+}
+
+.tulisan {
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    display: block;
+}
+
+.shop-title {
+    color:#FFAD50;
+}
